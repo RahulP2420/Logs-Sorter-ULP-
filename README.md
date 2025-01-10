@@ -98,6 +98,3 @@ Here’s a **checklist** of requirements and steps to run this script, formatted
    - Check the current working directory for the output file.
 
 ---
-
-### **Example GitHub ReadMe Section**
-Use the above checklist as a **"Requirements"** section in your GitHub repository's README file. Add examples and screenshots to enhance clarity.
